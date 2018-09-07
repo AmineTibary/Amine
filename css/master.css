@@ -1,0 +1,15 @@
+.centrage {text-align: center;}
+body {
+  background: #0FD5BB;
+  font-family: sansation;
+}
+
+#bloc
+{
+width: 70%;
+background-color: white;
+}
+
+h1 {
+  font-size: 3em;
+}
